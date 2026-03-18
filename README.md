@@ -3,8 +3,8 @@
 > **Frontend Developer & IT Instructor** · TATU Student · Tashkent, Uzbekistan
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-6366f1?style=for-the-badge&logo=vercel)](https://your-live-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/username)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram)](https:@abdulaziz_obidov02)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/abdulaziz-obidov/Portfolio)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/abdulaziz_obidov02)
 
 ---
 
@@ -122,15 +122,15 @@ Portfolioni o'z ma'lumotlaringiz bilan to'ldirish uchun `index.html` faylini och
 
 ```html
 <!-- 1. Ismingiz -->
-<h1 class="hero-name">Theo B.</h1>  →  O'z ismingiz
+<h1 class="hero-name">The_Obidov.</h1>  →  O'z ismingiz
 
 <!-- 2. Ijtimoiy tarmoqlar -->
-href="https://github.com/username"  →  O'z GitHub manzilingiz
-href="https://t.me/username"        →  O'z Telegram username'ingiz
+href="https://github.com/abdulaziz-obidov/Portfolio"  →  O'z GitHub manzilingiz
+href="https://t.me/abdulaziz_obidov02"        →  O'z Telegram username'ingiz
 
 <!-- 3. Telefon raqam -->
-href="tel:+998900000000"            →  O'z raqamingiz
-<span>+998 90 000 00 00</span>      →  O'z raqamingiz
+href="tel:+998200060309"            →  O'z raqamingiz
+<span>+998 90 447 76 13</span>      →  O'z raqamingiz
 
 <!-- 4. Loyihalar — har bir project-card'ni o'zgartiring -->
 <h3>JS Shopping Cart</h3>           →  Loyihangiz nomi
@@ -166,8 +166,8 @@ lekin shaxsiy ma'lumotlarni albatta o'z ma'lumotlaringiz bilan almashtiring.
 
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 - 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
-- 🐱 GitHub: [github.com/username](https://github.com/username)
-- ✈️ Telegram: [@username](https://t.me/username)
+- 🐱 GitHub: [github.com/username](https://github.com/abdulaziz-obidov/Portfolio)
+- ✈️ Telegram: [@username](https://t.me/abdulaziz_obidov02)
 
 ---
 
