@@ -10,7 +10,7 @@
 
 ## 📸 Preview
 
-![Portfolio Screenshot](./avatar.png)
+![Portfolio Screenshot](./avatar.jpg)
 
 ---
 
