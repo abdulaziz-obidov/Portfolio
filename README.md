@@ -1,10 +1,10 @@
-# 🚀 Personal Portfolio — Theo B.
+# 🚀 Personal Portfolio — The_Obidov.
 
 > **Frontend Developer & IT Instructor** · TATU Student · Tashkent, Uzbekistan
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-6366f1?style=for-the-badge&logo=vercel)](https://your-live-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/username)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/username)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram)](https:@abdulaziz_obidov02)
 
 ---
 
